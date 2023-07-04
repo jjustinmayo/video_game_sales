@@ -10,7 +10,7 @@ Building a simple, interactive Tableau dashboard summarizing global video game s
 ## Sales Dashboard
 
 ![Dashboard](dashboard_image.png)
-*[This link leads to the dashboard](https://public.tableau.com/views/Video_game_sales_16885042311970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [This link leads to the dashboard](https://public.tableau.com/views/Video_game_sales_16885042311970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This dashboard analyzes the following datapoints and can be filtered by Geography(Zone) and year range. All figures are in $ millions.
 * Total Sales by Year 
@@ -24,4 +24,4 @@ This dashboard analyzes the following datapoints and can be filtered by Geograph
 
 Access the source Kaggle dataset and description [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-*[Source Data](vgsales.csv)
+* [Kaggle Source Data](vgsales.csv)
